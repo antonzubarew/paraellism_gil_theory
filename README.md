@@ -60,4 +60,8 @@
 * https://stackoverflow.com/questions/75907155/is-asyncio-affected-by-the-gil
 * https://thecode.media/asinkhronnyj-kod-na-python-sintaksis-i-osobennosti/
 * https://cs.mipt.ru/advanced_python/lessons/lab11.html
-
+#### Книги
+Кирилл Бобров «Грокаем конкурентность»
+#### Изображения:
+1. Исходники для диаграмм:https://excalidraw.com/#json=GhXdopdDunpArjRupEJv6,TiXSHAWvWiMWsWQusqSS8A
+2. Также использовались изображения из: https://www.flaticon.com/search?word=arrow
