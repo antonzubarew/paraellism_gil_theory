@@ -44,3 +44,20 @@
 4. Пишите доступным языком, избегайте чрезмерной технической терминологии без объяснений. Предполагается, что читатель – начинающий программист.
 5. Примеры кода помогут закрепить материал, поэтому не стесняйтесь приводить их там, где это уместно.
 6. Каждый раздел должен быть достаточно ёмким, чтобы его можно было изучить за 10–15 минут, не перегружая читателя.
+
+
+## Источники
+При подготовке тестового задания были использованы ресурсы:
+#### Youtube:
+* https://www.youtube.com/watch?v=hkWmKQqLT4k&t=289s
+* https://www.youtube.com/watch?v=JIp14T9bvvc&t=200s
+#### Статьи
+* https://habr.com/ru/articles/149420/
+* https://tproger.ru/translations/asynchronous-programming-in-python
+* https://thecode.media/python-time-2/
+* https://www.geeksforgeeks.org/multithreading-python-set-1/
+* https://tproger.ru/translations/global-interpreter-lock-guide
+* https://stackoverflow.com/questions/75907155/is-asyncio-affected-by-the-gil
+* https://thecode.media/asinkhronnyj-kod-na-python-sintaksis-i-osobennosti/
+* https://cs.mipt.ru/advanced_python/lessons/lab11.html
+
