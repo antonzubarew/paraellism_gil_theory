@@ -63,5 +63,5 @@
 #### Книги
 Кирилл Бобров «Грокаем конкурентность»
 #### Изображения:
-1. Исходники для диаграмм:https://excalidraw.com/#json=GhXdopdDunpArjRupEJv6,TiXSHAWvWiMWsWQusqSS8A
+1. Исходники для диаграмм: https://excalidraw.com/#json=GhXdopdDunpArjRupEJv6,TiXSHAWvWiMWsWQusqSS8A
 2. Также использовались изображения из: https://www.flaticon.com/search?word=arrow
